@@ -28,6 +28,8 @@ When we get the `/` directory, there's a file called `2of3.flag.txt`. View it us
 Let's go to `home` directory using the following command: `cd home`. There's one directory in it called `ctf-player`(use `ls` to view the content of `home`). Let's visit `ctf-player` using the same command. There it is, the 3rd part of the flag. View it using `more` again. We get the following text: `3ca613a1}`.
 
 
+To exit the ssh session write `~.` (You won't see it while being written!)
+
 ## Final Answer
 
 `picoCTF{xxsh_0ut_0f_\/\/4t3r_3ca613a1}`
